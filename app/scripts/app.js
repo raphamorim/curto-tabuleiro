@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name srcApp
+ * @name curtoTabuleiroApp
  * @description
- * # srcApp
+ * # curtoTabuleiroApp
  *
  * Main module of the application.
  */
 angular
-  .module('srcApp', [
+  .module('curtoTabuleiroApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
